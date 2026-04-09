@@ -132,7 +132,7 @@ AI-Autonomous-Navigation-System/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/AI-Autonomous-Navigation-System.git
+git clone https://github.com/Saru2248/AI-Autonomous-Navigation-System.git
 cd AI-Autonomous-Navigation-System
 
 Create virtual environment:
@@ -177,7 +177,7 @@ S → Save screenshot
 
 ## 📸 Results
 
-![Initial]([images/01_initial.png](https://drive.google.com/file/d/1MCNxKpTh_koJLZpUWW2TWU2YYRIerNsF/view?usp=sharing))
+![Initial](https://drive.google.com/file/d/1MCNxKpTh_koJLZpUWW2TWU2YYRIerNsF/view?usp=sharing)
 
 ![Goal](https://drive.google.com/file/d/1012Ao0tfRI0HLTpncWrF-foWvY2hFVgW/view?usp=sharing)
 
