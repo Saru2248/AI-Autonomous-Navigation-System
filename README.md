@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.5.2-green?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.9-red?style=for-the-badge\&logo=opencv)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ### 🚗 Autonomous Navigation using AI Concepts, Path Planning & Simulation
