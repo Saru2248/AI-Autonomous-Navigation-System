@@ -18,7 +18,7 @@ A complete simulation of an autonomous system implementing perception, path plan
 
 ## 🎬 Demo
 
-![Demo](videos/demo.gif)
+![Demo](https://drive.google.com/file/d/1kAUGhwefNjYL7f7R6m73o-BmxTtAUWEN/view?usp=sharing)
 
 ---
 
