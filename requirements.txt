@@ -1,0 +1,32 @@
+
+# ============================================================
+# AI-Based Autonomous Navigation System
+# requirements.txt
+# ============================================================
+
+# Core
+numpy==1.26.4
+pygame==2.5.2
+matplotlib==3.8.4
+Pillow==10.3.0
+
+# Computer Vision
+opencv-python==4.9.0.80
+
+# Path Planning & Algorithms
+scipy==1.13.0
+networkx==3.3
+
+# Utilities
+tqdm==4.66.4
+pyyaml==6.0.1
+pandas==2.2.2
+
+# Optional: Object Detection (uncomment if using YOLO)
+# ultralytics==8.2.0
+# torch==2.3.0
+# torchvision==0.18.0
+
+# Jupyter (for notebooks)
+jupyter==1.0.0
+ipykernel==6.29.4

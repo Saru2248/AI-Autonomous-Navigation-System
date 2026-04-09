@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files (keep folder, ignore content)
+outputs/*.png
+outputs/*.mp4
+outputs/*.gif
+outputs/*.txt
+!outputs/.gitkeep
+
+# Videos (add manually when needed)
+videos/*.mp4
+videos/*.avi
+!videos/.gitkeep
+
+# Model weights (too large for GitHub)
+models/*.pt
+models/*.pth
+models/*.h5
+models/*.onnx
+!models/.gitkeep
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Data files
+data/raw/
+data/processed/
+!data/.gitkeep
