@@ -173,16 +173,6 @@ F2 → Set Start
 F3 → Set Goal
 S → Save screenshot
 
----
-
-## 📸 Results
-
-![Initial]((https://drive.google.com/file/d/1MCNxKpTh_koJLZpUWW2TWU2YYRIerNsF/view?usp=sharing))
-
-
-![Goal]((https://drive.google.com/file/d/1012Ao0tfRI0HLTpncWrF-foWvY2hFVgW/view?usp=sharing))
-
----
 
 ## 📊 Sample Output
 
