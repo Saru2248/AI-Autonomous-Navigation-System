@@ -16,9 +16,6 @@ A complete simulation of an autonomous system implementing perception, path plan
 
 ---
 
-## 🎬 Demo
-https://drive.google.com/file/d/1kAUGhwefNjYL7f7R6m73o-BmxTtAUWEN/view?usp=sharing
----
 
 ## 💡 Why This Project
 
@@ -249,6 +246,11 @@ LinkedIn: https://www.linkedin.com/in/sarthak-dhumal-07555a211/
 ---
 
 <div align="center">
+
+
+## 🎬 Demo
+https://drive.google.com/file/d/1kAUGhwefNjYL7f7R6m73o-BmxTtAUWEN/view?usp=sharing
+
 
 ⭐ Star this repository if you found it useful!
 
